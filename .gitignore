@@ -1,0 +1,18 @@
+# 대용량 입력
+inputs/*.cif
+
+# AF2 원시 출력 (건당 1.4~1.9 MB)
+outputs/af2_*/*.json
+outputs/af2_*/*.png
+outputs/af2_*/*.a3m
+outputs/af2_mono/*.pdb
+outputs/af2_smoke/
+
+# 설치물
+RFdiffusion/
+ProteinMPNN/
+*.zip
+__pycache__/
+
+# 예외: 최종 삼량체 구조는 남긴다
+!outputs/af2_tri/*.pdb
