@@ -1,0 +1,5 @@
+name,linker_len,freed_flanks,diffused_total,rebuilt_gaps,contig,input_pdb
+cperm_link01,1,4,5,123-129,[A133-176/5-5/A3-122/7-7/A130-132],inputs/monomer.pdb
+cperm_link02,2,4,6,123-129,[A133-176/6-6/A3-122/7-7/A130-132],inputs/monomer.pdb
+cperm_link03,3,4,7,123-129,[A133-176/7-7/A3-122/7-7/A130-132],inputs/monomer.pdb
+cperm_link04,4,4,8,123-129,[A133-176/8-8/A3-122/7-7/A130-132],inputs/monomer.pdb
